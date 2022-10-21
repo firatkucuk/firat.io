@@ -1,5 +1,5 @@
 # Site settings
-title: Fırat KÜÇÜK # site title
+title: Fırat Küçük # site title
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -11,14 +11,14 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Fırat KÜÇÜK # author name
+  name: Fırat Küçük # author name
   bio: >- # tell to the world
     Lifetime developer, Sci-fi addicted, cat squeezer, the last baklava bender, good lyrics detector, meeting doodler,
     bench activist, entrepreneur-ish.
   username: firatkucuk
   github: firatkucuk
   twitter: fplusplus
-  instagram: firatshlf
+  instagram: firatronic
   linkedin: firatkucuk
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
